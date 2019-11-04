@@ -1,13 +1,15 @@
 //
-//  DemoFramework.h
-//  DemoFramework
+//  ViewController.h
+//  targetAPP
 //
 //  Created by 李腾芳 on 2019/10/30.
 //  Copyright © 2019 HSBC Holdings plc. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
-@interface DemoFramework : NSObject
+@interface ViewController : UIViewController
+
 
 @end
+

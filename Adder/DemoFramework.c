@@ -7,7 +7,16 @@
 //
 
 #import "DemoFramework.h"
+#include <stdio.h>
 
-@implementation DemoFramework
 
-@end
+
+int add(int a,int b) {
+
+    return a + b;
+}
+
+int sub(int a,int b) {
+ 
+    return a - b;
+}
